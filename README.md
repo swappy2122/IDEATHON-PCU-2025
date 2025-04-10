@@ -42,6 +42,7 @@ The project structure is organized as follows:
 ## Project Structure
 
 The project structure (after building with React) will typically look something like this:
+```bash
 your-project-directory/
 ├── index.html
 ├── about.html
@@ -55,6 +56,7 @@ your-project-directory/
 │   ├── logo.png
 │   └── ... (other images)
 └── README.md
+```
 
 
 * **`index.html`:** The main HTML file containing the structure, content, and links to the CSS and JavaScript files for the simulation.
